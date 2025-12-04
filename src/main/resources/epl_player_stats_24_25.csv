@@ -1,0 +1,563 @@
+﻿Player Name,nation,pos,mp,min,gls,ast,Yellow Cards,Red Cards,Club
+Ben White,England,DEF,17,1198,0,2,2,0,Arsenal
+Bukayo Saka,England,MID,25,1735,6,10,3,0,Arsenal
+David Raya,Spain,GKP,38,3420,0,0,3,0,Arsenal
+Declan Rice,England,MID,35,2833,4,7,5,1,Arsenal
+Ethan Nwaneri,England,MID,26,889,4,0,1,0,Arsenal
+Gabriel Jesus,Brazil,FWD,17,603,3,0,4,0,Arsenal
+Gabriel Magalhães,Brazil,DEF,28,2365,3,1,4,0,Arsenal
+Gabriel Martinelli,Brazil,MID,33,2300,8,4,1,0,Arsenal
+Jakub Kiwior,Poland,DEF,17,1117,1,0,1,0,Arsenal
+Jorginho,Italy,MID,15,702,0,0,5,0,Arsenal
+Jurriën Timber,Netherlands,DEF,30,2422,1,3,7,0,Arsenal
+Kai Havertz,Germany,FWD,23,1874,9,3,5,0,Arsenal
+Kieran Tierney,Scotland,DEF,13,252,1,0,0,0,Arsenal
+Leandro Trossard,Belgium,MID,38,2550,8,7,2,1,Arsenal
+Martin Ødegaard,Norway,MID,30,2328,3,8,4,0,Arsenal
+Mikel Merino,Spain,MID,28,1581,7,2,2,1,Arsenal
+Myles Lewis-Skelly,England,DEF,23,1370,1,0,3,2,Arsenal
+Nathan Butler-Oyedeji,England,FWD,1,6,0,0,0,0,Arsenal
+Neto,Brazil,GKP,2,180,0,0,0,0,Arsenal
+Oleksandr Zinchenko,Ukraine,DEF,15,522,0,0,1,0,Arsenal
+Raheem Sterling,England,MID,17,496,0,2,1,0,Arsenal
+Riccardo Calafiori,Italy,DEF,19,984,2,1,4,0,Arsenal
+Takehiro Tomiyasu,Japan,DEF,1,6,0,0,0,0,Arsenal
+Thomas Partey,Ghana,MID,35,2799,4,0,4,0,Arsenal
+William Saliba,France,DEF,35,3041,2,0,2,1,Arsenal
+Amadou Onana,Belgium,MID,26,1624,3,0,4,0,Aston Villa
+Andrés García,Spain,DEF,7,317,0,0,0,0,Aston Villa
+Axel Disasi,France,DEF,13,853,1,0,3,0,Aston Villa
+Boubacar Kamara,France,MID,26,1725,1,0,2,0,Aston Villa
+Diego Carlos,Brazil,DEF,10,828,0,0,1,0,Aston Villa
+Donyell Malen,Netherlands,FWD,14,298,3,0,0,0,Aston Villa
+Emiliano Buendía,Argentina,MID,12,89,0,0,1,0,Aston Villa
+Emiliano Martínez,Argentina,GKP,37,3195,0,0,5,1,Aston Villa
+Ezri Konsa,England,DEF,34,2937,2,0,1,0,Aston Villa
+Ian Maatsen,Netherlands,DEF,29,1128,1,2,2,0,Aston Villa
+Jacob Ramsey,England,MID,29,1628,1,3,2,1,Aston Villa
+Jhon Durán,Colombia,FWD,20,626,7,0,3,1,Aston Villa
+John McGinn,Scotland,MID,34,2230,1,4,7,0,Aston Villa
+Kosta Nedeljkovic,Serbia,DEF,5,121,0,0,0,0,Aston Villa
+Lamare Bogarde,Netherlands,DEF,8,475,0,0,2,0,Aston Villa
+Leon Bailey,Jamaica,MID,24,1143,1,2,3,0,Aston Villa
+Lucas Digne,France,DEF,32,2358,0,4,4,0,Aston Villa
+Marco Asensio,Spain,DEF,13,745,3,1,2,0,Aston Villa
+Marcus Rashford,England,MID,25,1426,6,3,2,0,Aston Villa
+Matty Cash,Poland,DEF,27,2077,1,1,7,0,Aston Villa
+Morgan Rogers,England,MID,37,3129,8,10,10,0,Aston Villa
+Ollie Watkins,England,FWD,38,2610,16,8,2,0,Aston Villa
+Pau Torres,Spain,DEF,24,2020,0,0,2,0,Aston Villa
+Robin Olsen,Sweden,GKP,4,225,0,0,0,0,Aston Villa
+Ross Barkley,England,MID,20,569,3,1,3,0,Aston Villa
+Tyrone Mings,England,DEF,14,1121,0,0,1,0,Aston Villa
+Youri Tielemans,Belgium,MID,36,3032,3,7,4,0,Aston Villa
+Adam Smith,England,DEF,25,1596,0,0,7,0,Bournemouth
+Alex Scott,England,MID,20,751,0,0,3,0,Bournemouth
+Antoine Semenyo,Ghana,MID,37,3209,0,5,9,0,Bournemouth
+Ben Winterburn,England,MID,4,22,0,0,0,0,Bournemouth
+Dango Ouattara,Burkina Faso,MID,32,2006,7,0,3,0,Bournemouth
+Daniel Jebbison,Canada,FWD,16,105,1,0,1,0,Bournemouth
+David Brooks,Wales,MID,29,949,2,0,3,0,Bournemouth
+Dean Huijsen,Spain,DEF,32,2422,3,2,10,0,Bournemouth
+Enes Ünal,Turkiye,FWD,17,331,2,0,2,0,Bournemouth
+Evanilson,Brazil,FWD,31,2335,0,1,1,1,Bournemouth
+Illia Zabarnyi,Ukraine,DEF,36,3113,0,0,4,1,Bournemouth
+James Hill,England,DEF,10,448,0,0,1,0,Bournemouth
+Julián Araujo,Mexico,DEF,12,497,0,0,2,0,Bournemouth
+Julio Soler,Argentina,DEF,3,9,0,0,0,0,Bournemouth
+Justin Kluivert,Netherlands,MID,34,2356,0,0,8,0,Bournemouth
+Kepa,Spain,GKP,31,2790,0,0,3,0,Bournemouth
+Lewis Cook,England,MID,36,2978,1,3,8,1,Bournemouth
+Lloyd Kelly,England,DEF,10,301,0,1,2,0,Bournemouth
+Luis Sinisterra,Colombia,MID,12,230,1,0,0,0,Bournemouth
+Marcos Senesi,Argentina,DEF,17,1108,0,0,5,0,Bournemouth
+Marcus Tavernier,England,MID,29,1938,3,5,6,0,Bournemouth
+Mark Travers,Ireland,GKP,5,450,0,0,0,0,Bournemouth
+Max Aarons,England,DEF,3,85,0,0,0,0,Bournemouth
+Milos Kerkez,Hungary,DEF,38,3342,2,5,4,0,Bournemouth
+Philip Billing,Denmark,MID,10,176,0,0,1,0,Bournemouth
+Remy Rees-Dottin,England,FWD,1,1,0,0,0,0,Bournemouth
+Ryan Christie,Scotland,MID,29,2131,2,3,9,0,Bournemouth
+Tyler Adams,United States,MID,28,1965,0,3,7,0,Bournemouth
+Zain Silcott-Duberry,England,FWD,1,1,0,0,0,0,Bournemouth
+Ben Mee,England,DEF,7,181,0,0,2,0,Brentford
+Bryan Mbeumo,Cameroon,MID,38,3415,20,7,3,0,Brentford
+Christian Nørgaard,Denmark,MID,34,2829,5,0,8,1,Brentford
+Ethan Pinnock,Jamaica,DEF,22,1913,2,0,2,0,Brentford
+Fábio Carvalho,Portugal,FWD,19,446,2,1,1,0,Brentford
+Frank Onyeka,Nigeria,MID,2,23,0,0,0,0,Brentford
+Gustavo Nunes,Brazil,FWD,3,11,0,0,0,0,Brentford
+Hákon Valdimarsson,Iceland,GKP,2,144,0,0,0,0,Brentford
+Igor Thiago,Brazil,FWD,8,168,0,0,0,0,Brentford
+Jayden Meghoma,England,DEF,1,4,0,0,0,0,Brentford
+Keane Lewis-Potter,England,MID,38,3101,1,3,7,0,Brentford
+Kevin Schade,Germany,MID,38,2301,0,2,3,0,Brentford
+Kim Ji-Soo,South Korea,DEF,3,28,0,0,0,0,Brentford
+Kristoffer Ajer,Norway,DEF,24,1441,0,0,5,0,Brentford
+Mads Roerslev,Denmark,DEF,19,1096,0,0,2,0,Brentford
+Mark Flekken,Netherlands,GKP,37,3276,0,2,1,0,Brentford
+Mathias Jensen,Denmark,MID,24,852,0,2,2,0,Brentford
+Michael Kayode,Italy,DEF,12,528,0,0,2,0,Brentford
+Mikkel Damsgaard,Denmark,MID,38,2926,2,10,2,0,Brentford
+Nathan Collins,Ireland,DEF,38,3420,2,3,5,0,Brentford
+Paris Maghoma,England,MID,8,112,0,0,0,0,Brentford
+Rico Henry,England,DEF,5,94,0,0,0,0,Brentford
+Ryan Trevitt,England,MID,1,3,0,0,0,0,Brentford
+Sepp van den Berg,Netherlands,DEF,31,2588,0,0,3,0,Brentford
+Vitaly Janelt,Germany,MID,32,2266,1,3,3,0,Brentford
+Yehor Yarmoliuk,Ukraine,MID,31,1442,0,0,6,0,Brentford
+Yoane Wissa,DR Congo,FWD,35,2927,19,0,5,0,Brentford
+Yunus Konak,Turkiye,MID,10,36,0,0,0,0,Brentford
+Jakub Moder,Poland,MID,4,9,0,0,0,0,Brighton
+James Milner,England,MID,4,173,0,0,1,0,Brighton
+Adam Webster,England,DEF,14,888,0,0,1,0,Brighton & Hove Albion
+Bart Verbruggen,Netherlands,GKP,36,3240,0,0,6,0,Brighton & Hove Albion
+Billy Gilmour,Scotland,MID,2,97,0,0,0,0,Brighton & Hove Albion
+Brajan Gruda,Germany,MID,21,681,1,4,0,0,Brighton & Hove Albion
+Carlos Baleba,Cameroon,MID,34,2670,3,1,6,1,Brighton & Hove Albion
+Danny Welbeck,England,FWD,30,2122,10,0,5,0,Brighton & Hove Albion
+Diego Gómez,Paraguay,MID,16,512,1,0,0,0,Brighton & Hove Albion
+Eiran Cashin,Ireland,DEF,2,19,0,0,0,0,Brighton & Hove Albion
+Ferdi Kadioglu,Turkiye,DEF,6,388,1,0,1,0,Brighton & Hove Albion
+Georginio Rutter,France,MID,28,1666,5,3,2,0,Brighton & Hove Albion
+Harry Howell,England,MID,1,6,0,0,0,0,Brighton & Hove Albion
+Igor Julio,Brazil,DEF,13,960,0,0,4,0,Brighton & Hove Albion
+Jack Hinshelwood,England,MID,26,1846,5,2,5,0,Brighton & Hove Albion
+Jan Paul van Hecke,Netherlands,DEF,34,2959,1,0,6,1,Brighton & Hove Albion
+Jason Steele,England,GKP,2,180,0,0,0,0,Brighton & Hove Albion
+Jeremy Sarmiento,Ecuador,MID,1,8,0,0,0,0,Brighton & Hove Albion
+João Pedro,Brazil,FWD,27,1953,10,0,4,1,Brighton & Hove Albion
+Joël Veltman,Netherlands,DEF,21,1699,0,0,5,0,Brighton & Hove Albion
+Kaoru Mitoma,Japan,FWD,36,2608,10,4,1,0,Brighton & Hove Albion
+Lewis Dunk,England,DEF,25,2083,0,0,5,0,Brighton & Hove Albion
+Mats Wieffer,Netherlands,MID,25,1008,1,0,6,0,Brighton & Hove Albion
+Matt O'Riley,Denmark,MID,21,937,2,0,1,0,Brighton & Hove Albion
+Pervis Estupiñán,Ecuador,DEF,30,2403,1,1,5,0,Brighton & Hove Albion
+Simon Adingra,Cote D’Ivoire,MID,29,1091,2,2,0,0,Brighton & Hove Albion
+Solly March,England,MID,8,162,0,0,2,0,Brighton & Hove Albion
+Tariq Lamptey,Ghana,DEF,15,860,2,2,0,0,Brighton & Hove Albion
+Yankuba Minteh,Gambia,MID,32,1841,6,4,6,0,Brighton & Hove Albion
+Yasin Ayari,Sweden,MID,34,1966,2,1,4,0,Brighton & Hove Albion
+Benoît Badiashile,France,DEF,5,333,0,0,0,0,Chelsea
+Christopher Nkunku,France,MID,27,911,3,0,2,0,Chelsea
+Cole Palmer,England,MID,37,3195,15,8,7,0,Chelsea
+Enzo Fernández,Argentina,MID,36,2946,6,7,8,0,Chelsea
+Filip Jørgensen,Denmark,GKP,6,540,0,0,0,0,Chelsea
+Jadon Sancho,England,MID,31,1764,3,0,2,0,Chelsea
+João Félix,Portugal,FWD,12,364,1,1,2,0,Chelsea
+Josh Acheampong,England,DEF,4,169,0,0,1,0,Chelsea
+Kiernan Dewsbury-Hall,England,MID,13,259,0,1,0,0,Chelsea
+Levi Colwill,England,DEF,35,3149,2,1,9,0,Chelsea
+Malo Gusto,France,DEF,32,1858,0,0,4,0,Chelsea
+Marc Cucurella,Spain,DEF,36,2989,5,1,8,1,Chelsea
+Marc Guiu,Spain,DEF,3,71,0,0,0,0,Chelsea
+Mathis Amougou,France,MID,1,7,0,0,0,0,Chelsea
+Moisés Caicedo,Ecuador,MID,38,3356,1,2,11,0,Chelsea
+Mykhailo Mudryk,Ukraine,MID,7,145,0,0,0,0,Chelsea
+Nicolas Jackson,Senegal,FWD,30,2238,10,5,7,1,Chelsea
+Noni Madueke,England,MID,32,2046,7,3,3,0,Chelsea
+Pedro Neto,Portugal,MID,35,2268,4,0,8,0,Chelsea
+Reece James,England,DEF,19,1064,1,0,1,0,Chelsea
+Renato Veiga,Portugal,MID,7,177,0,0,2,0,Chelsea
+Robert Sánchez,Spain,GKP,32,2880,0,0,5,0,Chelsea
+Roméo Lavia,Belgium,MID,16,801,0,1,4,0,Chelsea
+Shumaira Mheuka,England,FWD,1,1,0,0,0,0,Chelsea
+Tosin Adarabioyo,England,DEF,22,1404,1,1,4,0,Chelsea
+Trevoh Chalobah,England,DEF,25,1974,3,1,3,0,Chelsea
+Tyrique George,England,FWD,8,178,1,0,1,0,Chelsea
+Wesley Fofana,France,DEF,14,1176,0,0,7,0,Chelsea
+Adam Wharton,England,MID,20,1326,0,2,2,0,Crystal Palace
+Asher Agbinone,England,FWD,2,4,0,0,0,0,Crystal Palace
+Ben Chilwell,England,DEF,8,254,1,0,1,0,Crystal Palace
+Caleb Kporha,England,DEF,2,11,0,0,0,0,Crystal Palace
+Chadi Riad,Morocco,DEF,1,90,0,0,0,0,Crystal Palace
+Cheick Doucouré,Mali,MID,13,445,0,0,1,0,Crystal Palace
+Chris Richards,United States,DEF,24,1924,1,0,2,1,Crystal Palace
+Daichi Kamada,Japan,MID,34,1553,0,0,4,1,Crystal Palace
+Daniel Muñoz,Colombia,DEF,37,3233,4,5,10,0,Crystal Palace
+Dean Henderson,England,GKP,38,3420,0,0,3,0,Crystal Palace
+Eberechi Eze,England,MID,34,2600,8,8,1,0,Crystal Palace
+Eddie Nketiah,England,FWD,29,1026,3,0,4,1,Crystal Palace
+Ismaïla Sarr,Senegal,MID,38,2714,8,6,4,0,Crystal Palace
+Jean-Philippe Mateta,France,FWD,37,2654,14,2,2,0,Crystal Palace
+Jefferson Lerma,Colombia,MID,33,2277,0,1,9,0,Crystal Palace
+Jeffrey Schlupp,Ghana,MID,12,95,0,0,0,0,Crystal Palace
+Joel Ward,England,DEF,2,72,0,0,1,0,Crystal Palace
+Jordan Ayew,Ghana,MID,31,1664,5,0,6,0,Crystal Palace
+Justin Devenny,Northern Ireland,MID,23,496,1,1,1,0,Crystal Palace
+Marc Guéhi,England,DEF,34,3059,3,2,7,1,Crystal Palace
+Matheus França,Brazil,MID,4,52,1,0,0,0,Crystal Palace
+Maxence Lacroix,France,DEF,35,3118,1,1,5,0,Crystal Palace
+Nathaniel Clyne,England,DEF,13,481,0,0,1,0,Crystal Palace
+Romain Esse,England,MID,7,135,1,1,0,0,Crystal Palace
+Tyrick Mitchell,England,DEF,37,3102,0,5,2,0,Crystal Palace
+Will Hughes,England,MID,33,2118,0,3,11,0,Crystal Palace
+Abdoulaye Doucouré,Mali,MID,33,2577,3,2,3,1,Everton
+Adam Armstrong,England,FWD,20,1252,2,2,4,0,Everton
+Armando Broja,Albania,FWD,10,331,0,0,1,0,Everton
+Ashley Young,England,DEF,32,1869,1,3,7,1,Everton
+Beto,Guinea-Bissau,FWD,30,1528,8,0,2,0,Everton
+Carlos Alcaraz,Argentina,MID,16,770,2,3,4,0,Everton
+Dominic Calvert-Lewin,England,FWD,26,1613,3,1,2,0,Everton
+Dwight McNeil,England,MID,21,1371,4,0,1,0,Everton
+Harrison Armstrong,England,MID,3,47,0,0,1,0,Everton
+Idrissa Gueye,Senegal,MID,37,3067,0,3,9,0,Everton
+Iliman Ndiaye,Senegal,FWD,33,2440,9,0,3,0,Everton
+Jack Harrison,England,MID,34,2083,1,0,0,0,Everton
+Jake O'Brien,Ireland,MID,20,1569,2,0,5,0,Everton
+James Garner,England,MID,21,1594,0,1,5,0,Everton
+James Tarkowski,England,DEF,33,2924,1,0,6,0,Everton
+Jarrad Branthwaite,England,DEF,30,2510,0,1,4,0,Everton
+Jesper Lindstrøm,Denmark,MID,25,1240,0,1,2,0,Everton
+Jordan Pickford,England,GKP,38,3420,0,0,7,0,Everton
+Michael Keane,England,DEF,14,1046,3,0,5,0,Everton
+Nathan Patterson,Scotland,DEF,10,345,0,0,1,0,Everton
+Orel Mangala,Belgium,MID,19,1255,1,0,2,0,Everton
+Roman Dixon,England,DEF,1,90,0,0,0,0,Everton
+Séamus Coleman,Ireland,DEF,5,215,0,0,1,0,Everton
+Tim Iroegbunam,England,MID,18,564,0,0,4,0,Everton
+Vitalii Mykolenko,Ukraine,DEF,35,3084,1,0,4,0,Everton
+Youssef Chermiti,Portugal,FWD,4,42,0,0,1,0,Everton
+Adama Traoré,Spain,MID,36,1769,2,7,3,0,Fulham
+Alex Iwobi,Nigeria,MID,38,2994,9,0,1,0,Fulham
+Andreas Pereira,Brazil,MID,33,2022,2,4,8,0,Fulham
+Antonee Robinson,United States,DEF,36,3167,0,10,8,0,Fulham
+Bernd Leno,Germany,GKP,38,3420,0,1,5,0,Fulham
+Calvin Bassey,Nigeria,DEF,35,3074,1,0,7,0,Fulham
+Carlos Vinícius,Brazil,MID,3,13,0,0,0,0,Fulham
+Emile Smith Rowe,England,MID,34,2061,6,3,3,0,Fulham
+Harrison Reed,England,MID,12,92,0,0,2,0,Fulham
+Harry Wilson,Wales,MID,25,1157,6,0,2,0,Fulham
+Issa Diop,France,DEF,21,1335,0,0,2,0,Fulham
+Jay Stansfield,England,FWD,1,1,0,0,0,0,Fulham
+Joachim Andersen,Denmark,DEF,30,2663,0,0,7,1,Fulham
+Jorge Cuenca,Spain,DEF,8,350,0,0,0,0,Fulham
+Josh King,England,GKP,8,126,0,0,0,0,Fulham
+Kenny Tete,Netherlands,DEF,22,1779,0,2,5,0,Fulham
+Martial Godo,England,FWD,2,21,0,0,0,0,Fulham
+Raúl Jiménez,Mexico,FWD,38,2505,0,3,4,0,Fulham
+Reiss Nelson,England,MID,12,488,1,1,1,0,Fulham
+Rodrigo Muniz,Brazil,FWD,31,951,8,1,1,0,Fulham
+Ryan Sessegnon,England,DEF,16,580,4,2,1,0,Fulham
+Sander Berge,Norway,MID,31,2227,0,0,6,0,Fulham
+Sasa Lukic,Serbia,MID,30,2355,0,2,12,0,Fulham
+Timothy Castagne,Belgium,DEF,24,1643,0,1,1,0,Fulham
+Tom Cairney,Scotland,MID,25,615,2,0,3,1,Fulham
+Willian,Brazil,FWD,10,253,0,0,0,0,Fulham
+Alex Palmer,England,MID,13,1170,0,0,2,0,Ipswich Town
+Ali Al-Hamadi,Iraq,FWD,11,125,0,0,3,0,Ipswich Town
+Arijanet Muric,Kosovo,GKP,18,1620,0,0,1,0,Ipswich Town
+Axel Tuanzebe,DR Congo,DEF,22,1717,0,0,3,1,Ipswich Town
+Ben Godfrey,England,DEF,3,159,0,0,1,0,Ipswich Town
+Ben Johnson,England,DEF,23,1348,1,2,3,1,Ipswich Town
+Cameron Burgess,Australia,DEF,18,1540,0,2,0,0,Ipswich Town
+Christian Walton,England,GKP,7,630,0,0,0,0,Ipswich Town
+Conor Chaplin,England,MID,22,854,1,1,2,0,Ipswich Town
+Conor Townsend,England,DEF,6,335,0,0,1,0,Ipswich Town
+Dara O'Shea,Ireland,DEF,35,3123,0,0,6,0,Ipswich Town
+George Edmundson,England,DEF,1,1,0,0,0,0,Ipswich Town
+George Hirst,Scotland,FWD,26,649,3,0,3,0,Ipswich Town
+Harry Clarke,England,DEF,7,378,0,0,1,1,Ipswich Town
+Jack Clarke,England,FWD,32,1170,0,4,2,0,Ipswich Town
+Jack Taylor,Ireland,MID,32,838,1,0,4,0,Ipswich Town
+Jacob Greaves,England,DEF,25,2205,1,0,5,0,Ipswich Town
+Jaden Philogene,England,MID,21,800,2,0,3,1,Ipswich Town
+Jens Cajuste,Sweden,MID,30,1976,1,1,2,0,Ipswich Town
+Julio Enciso,Paraguay,MID,25,1164,2,3,3,0,Ipswich Town
+Kalvin Phillips,England,MID,19,1239,0,0,4,1,Ipswich Town
+Leif Davis,England,DEF,33,2746,1,2,5,1,Ipswich Town
+Liam Delap,England,FWD,37,2612,0,2,12,0,Ipswich Town
+Luke Woolfenden,England,DEF,15,1186,0,0,2,0,Ipswich Town
+Marcus Harness,Ireland,MID,2,43,0,0,0,0,Ipswich Town
+Massimo Luongo,Australia,MID,11,197,0,0,0,0,Ipswich Town
+Nathan Broadhead,Wales,MID,18,696,2,0,1,0,Ipswich Town
+Omari Hutchinson,England,MID,31,2590,3,2,5,0,Ipswich Town
+Sam Morsy,Egypt,MID,33,2753,1,1,10,0,Ipswich Town
+Sam Szmodics,Ireland,FWD,20,1001,4,0,2,0,Ipswich Town
+Abdul Fatawu,Ghana,MID,11,577,0,2,0,0,Leicester City
+Bilal El Khannouss,Morocco,MID,32,2193,2,3,4,0,Leicester City
+Bobby De Cordova-Reid,Jamaica,MID,23,742,1,2,2,0,Leicester City
+Boubakary Soumaré,France,MID,31,2170,0,0,8,0,Leicester City
+Caleb Okoli,Italy,DEF,19,1122,1,0,4,0,Leicester City
+Conor Coady,England,DEF,22,1713,1,0,3,0,Leicester City
+Danny Ward,Wales,GKP,2,135,0,0,0,0,Leicester City
+Facundo Buonanotte,Argentina,MID,31,1513,5,2,8,0,Leicester City
+Hamza Choudhury,Bangladesh,MID,4,130,0,0,0,0,Leicester City
+Harry Winks,England,MID,22,1540,0,2,4,0,Leicester City
+Jake Evans,England,FWD,4,21,0,0,0,0,Leicester City
+Jakub Stolarczyk,Poland,GKP,10,900,0,0,1,0,Leicester City
+James Justin,England,DEF,36,2920,2,2,6,0,Leicester City
+Jamie Vardy,England,FWD,35,2839,9,0,5,0,Leicester City
+Jannik Vestergaard,Denmark,DEF,18,1395,0,0,5,0,Leicester City
+Jeremy Monga,England,FWD,7,105,0,0,0,0,Leicester City
+Kasey McAteer,Ireland,MID,18,852,1,1,3,0,Leicester City
+Luke Thomas,England,DEF,14,1112,0,0,3,0,Leicester City
+Mads Hermansen,Denmark,GKP,27,2385,0,0,1,0,Leicester City
+Michael Golding,England,MID,1,1,0,0,0,0,Leicester City
+Odsonne Édouard,France,FWD,6,142,0,0,0,0,Leicester City
+Olabade Aluko,England,DEF,1,1,0,0,0,0,Leicester City
+Oliver Skipp,England,MID,24,1120,0,0,8,0,Leicester City
+Patson Daka,Zambia,FWD,23,721,1,0,0,0,Leicester City
+Ricardo Pereira,Portugal,DEF,10,385,0,0,1,0,Leicester City
+Stephy Mavididi,England,MID,30,1613,4,1,2,0,Leicester City
+Victor Kristiansen,Denmark,DEF,30,2489,0,1,1,0,Leicester City
+Wilfred Ndidi,Nigeria,MID,28,2336,0,5,8,0,Leicester City
+Will Alves,England,FWD,1,1,0,0,0,0,Leicester City
+Wout Faes,Belgium,DEF,34,2812,1,0,4,0,Leicester City
+Woyo Coulibaly,France,DEF,4,107,0,0,1,0,Leicester City
+Alexis Mac Allister,Argentina,MID,35,2607,5,5,6,0,Liverpool
+Alisson Becker,Brazil,GKP,28,2509,0,0,0,0,Liverpool
+Andy Robertson,Scotland,DEF,33,2492,0,0,3,1,Liverpool
+Caoimhín Kelleher,Ireland,GKP,10,900,0,0,0,0,Liverpool
+Cody Gakpo,Netherlands,FWD,35,1938,10,4,5,0,Liverpool
+Conor Bradley,Northern Ireland,DEF,19,748,0,2,4,0,Liverpool
+Curtis Jones,England,MID,33,1710,3,3,1,1,Liverpool
+Darwin Núñez,Uruguay,FWD,30,1118,5,0,8,0,Liverpool
+Diogo Jota,Portugal,FWD,26,1194,6,3,2,0,Liverpool
+Dominik Szoboszlai,Hungary,MID,36,2496,6,6,6,0,Liverpool
+Federico Chiesa,Italy,FWD,6,104,0,0,0,0,Liverpool
+Harvey Elliott,England,MID,18,360,1,2,1,0,Liverpool
+Ibrahima Konaté,France,DEF,31,2565,1,2,5,0,Liverpool
+Jarell Quansah,England,DEF,13,488,0,0,2,0,Liverpool
+Jayden Danns,England,MID,1,10,0,0,0,0,Liverpool
+Joe Gomez,England,DEF,9,519,0,0,1,0,Liverpool
+Kostas Tsimikas,Greece,DEF,18,833,0,0,2,0,Liverpool
+Luis Díaz,Colombia,MID,36,2410,0,5,2,0,Liverpool
+Mohamed Salah,Egypt,MID,38,3377,29,18,1,0,Liverpool
+Ryan Gravenberch,Netherlands,MID,37,3168,0,4,6,1,Liverpool
+Trent Alexander-Arnold,England,DEF,33,2377,3,6,5,0,Liverpool
+Virgil van Dijk,Netherlands,DEF,37,3330,3,0,5,0,Liverpool
+Vítezslav Jaros,Czech Republic,GKP,1,11,0,0,0,0,Liverpool
+Wataru Endo,Japan,MID,20,261,0,0,0,0,Liverpool
+Abdukodir Khusanov,Uzbekistan,DEF,6,504,0,0,1,0,Manchester City
+Bernardo Silva,Portugal,MID,33,2667,4,0,7,0,Manchester City
+Claudio Echeverri,Argentina,FWD,1,5,0,0,0,0,Manchester City
+Divin Mubama,England,FWD,1,27,0,0,0,0,Manchester City
+Ederson,Brazil,GKP,26,2321,0,0,4,0,Manchester City
+Erling Haaland,Norway,FWD,31,2741,22,3,2,0,Manchester City
+Ilkay Gündogan,Germany,MID,33,2227,1,0,1,0,Manchester City
+Jack Grealish,England,MID,20,715,1,0,3,0,Manchester City
+Jahmai Simpson-Pusey,England,DEF,2,95,0,0,1,0,Manchester City
+James McAtee,England,MID,15,342,3,0,1,0,Manchester City
+Jérémy Doku,Belgium,MID,29,1513,3,6,1,0,Manchester City
+John Stones,England,DEF,11,545,2,0,1,0,Manchester City
+Josko Gvardiol,Croatia,DEF,37,3279,5,0,2,0,Manchester City
+Kevin De Bruyne,Belgium,MID,28,1704,4,7,2,0,Manchester City
+Kyle Walker,England,DEF,15,967,0,0,3,0,Manchester City
+Manuel Akanji,Switzerland,DEF,26,2014,0,0,3,0,Manchester City
+Mateo Kovacic,Croatia,MID,31,2202,6,2,5,1,Manchester City
+Matheus Nunes,Portugal,MID,26,1673,1,0,4,0,Manchester City
+Nathan Aké,Netherlands,DEF,10,682,0,0,0,0,Manchester City
+Nico González,Spain,MID,11,763,1,0,3,0,Manchester City
+Nico O'Reilly,England,DEF,9,527,2,0,0,0,Manchester City
+Omar Marmoush,Egypt,FWD,16,1182,7,0,0,0,Manchester City
+Oscar Bobb,Norway,MID,3,14,0,0,0,0,Manchester City
+Phil Foden,England,MID,28,1779,7,2,2,0,Manchester City
+Rico Lewis,England,DEF,28,1891,1,2,3,1,Manchester City
+Rodri,Spain,MID,3,73,0,0,0,0,Manchester City
+Rúben Dias,Portugal,DEF,27,2269,0,0,4,0,Manchester City
+Savinho,Brazil,FWD,29,1770,1,8,3,0,Manchester City
+Stefan Ortega,Germany,GKP,13,1099,0,0,1,0,Manchester City
+Vitor Reis,Brazil,DEF,1,1,0,0,0,0,Manchester City
+Wes Burns,Wales,MID,18,933,0,1,1,0,Manchester City
+Alejandro Garnacho,Argentina,MID,36,2195,6,2,3,0,Manchester United
+Altay Bayindir,Turkiye,GKP,4,360,0,0,0,0,Manchester United
+Amad Diallo,Cote D’Ivoire,MID,26,1901,8,6,5,0,Manchester United
+André Onana,Cameroon,GKP,34,3060,0,0,0,0,Manchester United
+Antony,Brazil,DEF,8,135,0,0,0,0,Manchester United
+Ayden Heaven,England,DEF,4,171,0,0,1,0,Manchester United
+Bruno Fernandes,Portugal,MID,36,3024,8,10,3,2,Manchester United
+Casemiro,Brazil,MID,24,1497,1,0,5,0,Manchester United
+Chido Obi,Denmark,FWD,7,160,0,0,1,0,Manchester United
+Christian Eriksen,Denmark,MID,23,1059,1,2,4,0,Manchester United
+Diogo Dalot,Portugal,DEF,33,2813,0,3,5,0,Manchester United
+Harry Amass,England,DEF,5,346,0,0,0,0,Manchester United
+Harry Maguire,England,DEF,27,1757,1,0,7,0,Manchester United
+Jonny Evans,Northern Ireland,DEF,7,314,0,0,1,0,Manchester United
+Joshua Zirkzee,Netherlands,FWD,32,1392,3,0,2,0,Manchester United
+Kobbie Mainoo,England,MID,25,1656,0,0,5,0,Manchester United
+Leny Yoro,France,DEF,21,1162,0,0,5,0,Manchester United
+Lisandro Martínez,Argentina,DEF,20,1754,2,1,7,0,Manchester United
+Luke Shaw,England,DEF,7,348,0,0,1,0,Manchester United
+Manuel Ugarte,Uruguay,MID,29,1789,1,2,11,0,Manchester United
+Mason Mount,England,MID,17,621,1,0,3,0,Manchester United
+Matthijs de Ligt,Netherlands,DEF,29,2128,2,0,3,0,Manchester United
+Noussair Mazraoui,Morocco,DEF,37,2848,0,1,3,0,Manchester United
+Patrick Dorgu,Denmark,DEF,12,842,0,0,3,1,Manchester United
+Rasmus Højlund,Denmark,FWD,32,2013,4,0,2,0,Manchester United
+Scott McTominay,Scotland,MID,2,17,0,0,0,0,Manchester United
+Toby Collyer,England,MID,6,175,0,0,0,0,Manchester United
+Tyler Fredricson,England,DEF,2,166,0,0,0,0,Manchester United
+Tyrell Malacia,Netherlands,DEF,3,99,0,0,1,0,Manchester United
+Victor Lindelöf,Sweden,DEF,16,697,0,0,1,0,Manchester United
+Alexander Isak,Sweden,FWD,34,2769,23,0,1,0,Newcastle United
+Anthony Gordon,England,MID,34,2444,6,5,2,0,Newcastle United
+Bruno Guimarães,Brazil,MID,38,3282,5,0,7,0,Newcastle United
+Callum Wilson,England,FWD,18,357,0,0,1,0,Newcastle United
+Dan Burn,England,DEF,37,3330,1,1,11,0,Newcastle United
+Emil Krafth,Sweden,DEF,12,334,0,0,2,0,Newcastle United
+Fabian Schär,Switzerland,DEF,34,2937,4,0,9,1,Newcastle United
+Harvey Barnes,England,MID,33,1755,9,4,0,0,Newcastle United
+Jacob Murphy,England,MID,35,2379,8,12,4,0,Newcastle United
+Joe Willock,England,MID,32,1074,0,2,4,0,Newcastle United
+Joelinton,Brazil,MID,29,2404,4,3,10,0,Newcastle United
+Kieran Trippier,England,DEF,25,1308,0,3,1,0,Newcastle United
+Lewis Hall,England,DEF,27,2192,0,4,3,0,Newcastle United
+Lewis Miley,England,MID,14,304,1,0,0,0,Newcastle United
+Martin Dúbravka,Slovakia,GKP,10,900,0,0,0,0,Newcastle United
+Matt Targett,England,DEF,2,20,0,0,0,0,Newcastle United
+Miguel Almirón,Paraguay,MID,9,151,0,0,0,0,Newcastle United
+Nick Pope,England,GKP,28,2520,0,0,2,0,Newcastle United
+Sandro Tonali,Italy,MID,36,2631,4,2,5,0,Newcastle United
+Sean Longstaff,England,MID,25,786,0,0,2,0,Newcastle United
+Sven Botman,Netherlands,DEF,8,414,0,0,1,0,Newcastle United
+Tino Livramento,England,DEF,37,2842,0,1,1,0,Newcastle United
+William Osula,Denmark,FWD,14,124,1,0,0,0,Newcastle United
+Alex Moreno,Spain,DEF,15,959,0,1,2,0,Nottingham Forest
+Anthony Elanga,Sweden,MID,38,2507,6,11,1,0,Nottingham Forest
+Callum Hudson-Odoi,England,MID,31,2201,5,2,2,0,Nottingham Forest
+Chris Wood,New Zealand,FWD,36,2976,20,3,1,0,Nottingham Forest
+Danilo,Brazil,MID,8,275,0,0,0,0,Nottingham Forest
+Elliot Anderson,England,MID,37,2742,2,6,10,0,Nottingham Forest
+Eric da Silva Moreira,Germany,MID,2,28,0,0,0,0,Nottingham Forest
+Harry Toffolo,England,DEF,4,135,0,0,1,0,Nottingham Forest
+Ibrahim Sangaré,Cote D’Ivoire,MID,13,590,0,0,3,0,Nottingham Forest
+Jota Silva,Portugal,FWD,31,840,3,1,5,0,Nottingham Forest
+Matz Sels,Belgium,GKP,38,3420,0,0,4,0,Nottingham Forest
+Morato,Brazil,DEF,26,893,0,0,5,0,Nottingham Forest
+Morgan Gibbs-White,England,MID,34,2822,7,8,9,1,Nottingham Forest
+Murillo,Brazil,DEF,36,3191,2,0,6,0,Nottingham Forest
+Nathan Wood,England,DEF,11,772,0,0,2,0,Nottingham Forest
+Neco Williams,Wales,DEF,35,2590,1,3,7,0,Nottingham Forest
+Nicolás Domínguez,Argentina,MID,34,1970,0,1,9,0,Nottingham Forest
+Nikola Milenkovic,Serbia,DEF,37,3330,5,2,4,0,Nottingham Forest
+Ola Aina,Nigeria,DEF,35,3003,2,1,5,0,Nottingham Forest
+Ramón Sosa,Paraguay,FWD,19,281,1,0,1,0,Nottingham Forest
+Ryan Yates,England,MID,35,1904,2,0,10,0,Nottingham Forest
+Taiwo Awoniyi,Nigeria,FWD,26,400,1,0,0,0,Nottingham Forest
+Willy-Arnaud Boly,Cote D’Ivoire,DEF,6,146,0,0,1,0,Nottingham Forest
+Aaron Ramsdale,England,GKP,30,2700,0,0,2,0,Southampton
+Adam Lallana,England,MID,14,356,0,2,4,0,Southampton
+Albert Grønbæk,Denmark,FWD,4,143,0,0,0,0,Southampton
+Alex McCarthy,England,GKP,5,450,0,0,0,0,Southampton
+Armel Bella-Kotchap,Germany,DEF,4,329,0,0,0,0,Southampton
+Ben Brereton,Chile,FWD,10,448,0,0,1,0,Southampton
+Cameron Archer,England,FWD,35,1432,2,0,0,0,Southampton
+Charlie Taylor,England,DEF,8,353,0,0,1,0,Southampton
+Chiedozie Ogbene,Ireland,FWD,5,240,0,0,0,0,Southampton
+Flynn Downes,England,MID,27,2154,1,0,12,0,Southampton
+Jack Stephens,England,DEF,19,1394,1,0,2,2,Southampton
+James Bree,England,DEF,17,1073,0,1,0,0,Southampton
+Jan Bednarek,Poland,DEF,30,2535,2,0,7,0,Southampton
+Jay Robinson,England,MID,4,135,0,0,0,0,Southampton
+Joachim Kayi-Sanda,France,DEF,2,12,0,0,0,0,Southampton
+Joe Aribo,Nigeria,MID,32,2018,3,0,1,0,Southampton
+Joe Lumley,England,GKP,3,270,0,0,0,0,Southampton
+Kamaldeen Sulemana,Ghana,MID,26,1406,1,0,2,0,Southampton
+Kyle Walker-Peters,England,DEF,33,2922,0,2,5,0,Southampton
+Lesley Ugochukwu,France,MID,26,1664,1,0,7,0,Southampton
+Mason Holgate,Jamaica,DEF,1,5,0,0,0,0,Southampton
+Mateus Fernandes,Portugal,MID,36,2919,2,4,8,0,Southampton
+Paul Onuachu,Nigeria,FWD,25,1044,4,0,4,0,Southampton
+Ronnie Edwards,England,DEF,1,12,0,0,0,0,Southampton
+Ross Stewart,Scotland,FWD,12,385,1,0,1,0,Southampton
+Ryan Fraser,Scotland,MID,8,306,0,0,0,1,Southampton
+Ryan Manning,Ireland,DEF,24,1468,0,1,2,0,Southampton
+Sam Amo-Ameyaw,England,MID,2,26,0,0,1,0,Southampton
+Samuel Edozie,England,MID,2,64,0,0,1,0,Southampton
+Taylor Harwood-Bellis,England,DEF,34,2828,1,0,9,0,Southampton
+Tyler Dibling,England,FWD,33,1874,2,0,6,0,Southampton
+Welington,Brazil,DEF,10,480,0,0,1,0,Southampton
+Will Smallbone,Ireland,MID,18,682,1,0,1,0,Southampton
+Yukinari Sugawara,Japan,DEF,30,1555,1,0,4,0,Southampton
+Alfie Dorrington,England,DEF,1,13,0,0,0,0,Tottenham Hotspur
+Antonín Kinsky,Czech Republic,GKP,6,540,0,0,0,0,Tottenham Hotspur
+Archie Gray,England,MID,28,1743,0,0,1,0,Tottenham Hotspur
+Ben Davies,Wales,DEF,17,1330,0,0,5,0,Tottenham Hotspur
+Brandon Austin,England,GKP,1,90,0,0,0,0,Tottenham Hotspur
+Brennan Johnson,Wales,MID,33,2179,0,3,5,0,Tottenham Hotspur
+Cristian Romero,Argentina,DEF,18,1420,1,0,3,0,Tottenham Hotspur
+Dane Scarlett,England,FWD,3,31,0,0,0,0,Tottenham Hotspur
+Dejan Kulusevski,Sweden,MID,32,2391,7,4,3,0,Tottenham Hotspur
+Destiny Udogie,Italy,DEF,25,1931,0,0,2,0,Tottenham Hotspur
+Djed Spence,England,DEF,25,1790,1,2,2,1,Tottenham Hotspur
+Dominic Solanke,England,FWD,27,2206,9,3,0,0,Tottenham Hotspur
+Fraser Forster,England,GKP,7,630,0,0,0,0,Tottenham Hotspur
+Guglielmo Vicario,Italy,GKP,24,2160,0,0,1,0,Tottenham Hotspur
+James Maddison,England,MID,31,1816,9,7,6,0,Tottenham Hotspur
+Kevin Danso,Austria,DEF,10,843,0,0,0,0,Tottenham Hotspur
+Lucas Bergvall,Sweden,MID,27,1206,0,1,3,0,Tottenham Hotspur
+Mathys Tel,France,FWD,13,913,2,0,2,0,Tottenham Hotspur
+Micky van de Ven,Netherlands,DEF,13,1018,0,2,4,0,Tottenham Hotspur
+Mikey Moore,England,FWD,10,361,0,1,0,0,Tottenham Hotspur
+Pape Sarr,Senegal,MID,36,1913,3,0,6,0,Tottenham Hotspur
+Pedro Porro,Spain,DEF,33,2608,2,0,5,0,Tottenham Hotspur
+Radu Dragusin,Romania,DEF,16,1251,0,0,1,0,Tottenham Hotspur
+Richarlison,Brazil,FWD,15,500,4,1,2,0,Tottenham Hotspur
+Rodrigo Bentancur,Uruguay,MID,26,1653,2,0,9,0,Tottenham Hotspur
+Sergio Reguilón,Spain,DEF,4,195,0,0,2,0,Tottenham Hotspur
+Son Heung-Min,South Korea,MID,30,2116,7,9,1,0,Tottenham Hotspur
+Timo Werner,Germany,MID,18,508,0,3,0,0,Tottenham Hotspur
+Will Lankshear,England,FWD,3,10,0,0,0,0,Tottenham Hotspur
+Wilson Odobert,France,FWD,16,849,1,0,0,0,Tottenham Hotspur
+Yves Bissouma,Mali,MID,28,1405,2,0,7,0,Tottenham Hotspur
+Aaron Cresswell,England,DEF,18,823,0,0,3,0,West Ham United
+Aaron Wan-Bissaka,England,DEF,36,3154,2,5,1,0,West Ham United
+Alphonse Areola,France,GKP,26,2259,0,0,0,0,West Ham United
+Andy Irving,Scotland,MID,10,162,0,0,2,0,West Ham United
+Carlos Soler,Spain,MID,31,1404,1,0,6,0,West Ham United
+Crysencio Summerville,Netherlands,FWD,19,780,1,0,2,0,West Ham United
+Danny Ings,England,FWD,15,270,1,2,0,0,West Ham United
+Edson Alvarez,Mexico,MID,28,1781,0,1,7,1,West Ham United
+Emerson,Italy,GKP,31,2126,2,0,5,0,West Ham United
+Evan Ferguson,Ireland,FWD,21,387,1,0,0,0,West Ham United
+Guido Rodríguez,Argentina,MID,23,1155,0,0,6,0,West Ham United
+James Ward-Prowse,England,MID,24,1440,1,2,2,1,West Ham United
+Jarrod Bowen,England,MID,34,2979,0,8,1,0,West Ham United
+Jean-Clair Todibo,France,DEF,27,1831,0,0,3,0,West Ham United
+Kaelan Casey,England,DEF,1,1,0,0,0,0,West Ham United
+Konstantinos Mavropanos,Greece,DEF,33,2037,0,0,4,1,West Ham United
+Lewis Orford,England,MID,2,47,0,0,0,0,West Ham United
+Lucas Paquetá,Brazil,MID,33,2384,4,0,10,0,West Ham United
+Luis Guilherme,Brazil,MID,12,139,0,0,0,0,West Ham United
+Lukasz Fabianski,Poland,GKP,14,1161,0,0,2,0,West Ham United
+Maximilian Kilman,England,DEF,38,3349,0,1,5,0,West Ham United
+Maxwel Cornet,Cote D’Ivoire,MID,2,71,0,0,1,0,West Ham United
+Michail Antonio,Jamaica,FWD,14,844,1,1,1,0,West Ham United
+Mohammed Kudus,Ghana,MID,32,2601,5,3,2,1,West Ham United
+Niclas Füllkrug,Germany,FWD,18,788,3,2,2,0,West Ham United
+Ollie Scarles,England,DEF,15,662,0,0,1,0,West Ham United
+Tomás Soucek,Czech Republic,MID,35,2570,9,0,8,0,West Ham United
+Vladimír Coufal,Czech Republic,DEF,22,1061,0,0,5,0,West Ham United
+Alfie Pond,England,DEF,1,1,0,0,0,0,Wolverhampton Wanderers
+André,Brazil,MID,33,2484,0,0,7,0,Wolverhampton Wanderers
+Boubacar Traoré,Mali,MID,1,1,0,0,0,0,Wolverhampton Wanderers
+Carlos Forbs,Portugal,MID,10,232,0,0,2,0,Wolverhampton Wanderers
+Chiquinho,Portugal,MID,1,6,0,0,0,0,Wolverhampton Wanderers
+Craig Dawson,England,DEF,15,969,0,0,2,0,Wolverhampton Wanderers
+Dan Bentley,England,GKP,2,180,0,0,0,0,Wolverhampton Wanderers
+Daniel Podence,Portugal,MID,2,46,0,0,0,0,Wolverhampton Wanderers
+Emmanuel Agbadou,Cote D’Ivoire,DEF,16,1411,1,0,3,0,Wolverhampton Wanderers
+Gonçalo Guedes,Portugal,MID,29,987,2,4,1,0,Wolverhampton Wanderers
+Hwang Hee-Chan,South Korea,MID,21,650,2,0,0,0,Wolverhampton Wanderers
+Jean-Ricner Bellegarde,France,MID,35,1681,2,7,3,0,Wolverhampton Wanderers
+João Gomes,Brazil,DEF,36,2987,3,0,9,1,Wolverhampton Wanderers
+Jørgen Strand Larsen,Norway,FWD,35,2599,0,0,4,0,Wolverhampton Wanderers
+José Sá,Portugal,GKP,29,2609,0,0,2,0,Wolverhampton Wanderers
+Mario Lemina,Gabon,MID,17,1363,1,3,4,0,Wolverhampton Wanderers
+Marshall Munetsi,Zimbabwe,MID,14,1079,2,1,0,0,Wolverhampton Wanderers
+Mateus Mané,England,MID,1,1,0,0,0,0,Wolverhampton Wanderers
+Matheus Cunha,Brazil,MID,33,2600,15,6,4,0,Wolverhampton Wanderers
+Matt Doherty,Ireland,DEF,30,2113,2,1,6,0,Wolverhampton Wanderers
+Nasser Djiga,Burkina Faso,DEF,5,65,0,0,0,0,Wolverhampton Wanderers
+Nélson Semedo,Portugal,DEF,34,2891,0,4,8,0,Wolverhampton Wanderers
+Pablo Sarabia,Spain,MID,23,805,3,0,3,0,Wolverhampton Wanderers
+Pedro Lima,Brazil,DEF,3,70,0,0,0,0,Wolverhampton Wanderers
+Rayan Aït-Nouri,Algeria,DEF,37,3127,4,7,5,1,Wolverhampton Wanderers
+Rodrigo Gomes,Portugal,MID,25,797,2,0,0,0,Wolverhampton Wanderers
+Sam Johnstone,England,GKP,7,630,0,0,0,0,Wolverhampton Wanderers
+Santiago Bueno,Uruguay,DEF,29,1682,0,0,2,0,Wolverhampton Wanderers
+Tom King,Wales,GKP,1,1,0,0,0,0,Wolverhampton Wanderers
+Tommy Doyle,England,MID,24,475,0,1,1,0,Wolverhampton Wanderers
+Toti Gomes,Portugal,DEF,31,2615,0,0,7,0,Wolverhampton Wanderers
+Yerson Mosquera,Colombia,DEF,5,442,0,0,2,0,Wolverhampton Wanderers
