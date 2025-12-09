@@ -10,7 +10,7 @@ import jakarta.persistence.Table;
 public class Player {
 
     @Id
-    @Column(name="name", unique = true)
+    @Column(name="name", nullable = false)
     private String name;
     private String nation;
     private String pos;
