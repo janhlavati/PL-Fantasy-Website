@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import AnimatedLetters from '../AnimatedLetters';
 import Loadert from 'react-loaders';
-import LogoPL from '../../assets/images/logo-pl.png';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
@@ -22,7 +21,6 @@ const Home = () => {
             <div className="container-home-page">
                 <div className="text-zone">
                     <h1>
-                        <img src={LogoPL} alt="Premier Zone Fantasy" />
                         <br />
                         <AnimatedLetters
                             letterClass={letterClass}
