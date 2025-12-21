@@ -83,17 +83,12 @@ const TeamData = () => {
             <th>Name</th>
             <th>Nation</th>
             <th>Position</th>
-            <th>Age</th>
             <th>Matches Played</th>
-            <th>Starts</th>
             <th>Minutes Played</th>
             <th>Goals</th>
             <th>Assists</th>
-            <th>Penalties Kicked</th>
             <th>Yellow Cards</th>
             <th>Red Cards</th>
-            <th>Expected Goals (xG)</th>
-            <th>Expected Assists (xAG)</th>
             <th>Team</th>
           </tr>
         </thead>
@@ -102,19 +97,14 @@ const TeamData = () => {
             <tr key={player.name}>
               <td>{player.name || "N/A"}</td>
               <td>{player.nation.split(" ")[0] || "N/A"}</td> {/* Extract country code */}
-              <td>{player.position || "N/A"}</td>
-              <td>{player.age || "N/A"}</td>
+              <td>{player.pos || "N/A"}</td>
               <td>{player.mp || 0}</td>
-              <td>{player.starts || 0}</td>
               <td>{player.min || 0}</td>
-              <td>{player.goals || 0}</td>
-              <td>{player.assists || 0}</td>
-              <td>{player.penalties || 0}</td>
-              <td>{player.yellow_cards || 0}</td>
-              <td>{player.red_cards || 0}</td>
-              <td>{player.expected_goals || 0}</td>
-              <td>{player.expected_assists || 0}</td>
-              <td>{player.team_name || "N/A"}</td>
+              <td>{player.gls || 0}</td>
+              <td>{player.ast || 0}</td>
+              <td>{player.crdy || 0}</td>
+              <td>{player.crdr || 0}</td>
+              <td>{player.team || "N/A"}</td>
             </tr>
           ))}
         </tbody>
