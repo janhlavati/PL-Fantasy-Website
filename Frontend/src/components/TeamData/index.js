@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './index.scss';
 import axios from 'axios';
 import AnimatedLetters from "../AnimatedLetters";
 
