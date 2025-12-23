@@ -1,3 +1,4 @@
+
 const AnimatedLetters = ({ letterClass, strArray, idx }) => {
   return (
     <span>

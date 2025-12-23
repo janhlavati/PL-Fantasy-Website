@@ -14,7 +14,7 @@ function App() {
     const location = useLocation();  // To get the current URL and query parameters
 
     useEffect(() => {
-        document.title = 'PremierZone Fantasy';
+        document.title = 'Premier-League Fantasy';
 
         // Function to generate fetch URL based on query params
         const generateFetchUrl = () => {

@@ -30,8 +30,10 @@ const Home = () => {
                             letterClass={letterClass}
                             strArray={jobArray} idx={15} />
                     </h1>
-                    <h2>Your Ultimate Fantasy Football Experience</h2>
-                    <Link to="/teams" className="flat-button">Get Started</Link>
+                    <h2 style={{textAlign: 'center'}}>Your Ultimate Fantasy Football Experience</h2>
+                    <div style={{ display: 'flex', justifyContent: 'center', color: '#fff', marginTop: '20px' }}>
+                        <Link to="/teams" className="flat-button">Get Started</Link>
+                    </div>
                 </div>
             </div>
             <Loadert type="pacman" />
