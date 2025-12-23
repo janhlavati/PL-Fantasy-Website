@@ -1,12 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import AnimatedLetters from '../AnimatedLetters';
 import Loadert from 'react-loaders';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
-    const nameArray = "Welcome to".split('');
-    const jobArray = "Premier Zone Fantasy".split('');
 
     useEffect(() => {
         const timer = setTimeout(() => {
@@ -20,18 +17,8 @@ const Home = () => {
         <>
             <div className="container-home-page">
                 <div className="text-zone">
-                    <h1>
-                        <br />
-                        <AnimatedLetters
-                            letterClass={letterClass}
-                            strArray={nameArray} idx={12} />
-                        <br />
-                        <AnimatedLetters
-                            letterClass={letterClass}
-                            strArray={jobArray} idx={15} />
-                    </h1>
-                    <h2 style={{textAlign: 'center'}}>Your Ultimate Fantasy Football Experience</h2>
-                    <div style={{ display: 'flex', justifyContent: 'center', color: '#fff', marginTop: '20px' }}>
+                    <h1 style={{textAlign: 'center', fontSize: '24px'}}>Your Ultimate Fantasy Football Experience</h1>
+                    <div style={{ display: 'flex', justifyContent: 'center', color: '#fff', marginTop: '20px', fontSize: '18px'  }}>
                         <Link to="/teams" className="flat-button">Get Started</Link>
                     </div>
                 </div>
