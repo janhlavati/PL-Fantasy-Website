@@ -6,7 +6,7 @@
         }, 
         {
             "cover": "/teams/AstonVilla.png", 
-            "title": "Aston-Villa"
+            "title": "Aston Villa"
         },
         {
             "cover": "/teams/Bournemouth.png", 
@@ -18,7 +18,7 @@
         },
         {
             "cover": "/teams/Brighton.png", 
-            "title": "Brighton"
+            "title": "Brighton & Hove Albion"
         },
         {
             "cover": "/teams/Chelsea.png", 
@@ -26,7 +26,7 @@
         },
         {
             "cover": "/teams/CrystalPalace.png", 
-            "title": "Crystal-Palace"
+            "title": "Crystal Palace"
         }, 
         {
             "cover": "/teams/Everton.png", 
@@ -38,11 +38,11 @@
         },
         {
             "cover": "/teams/LeedsUnited.png", 
-            "title": "Leeds-United"
+            "title": "Leeds United"
         },
         {
             "cover": "/teams/LeicesterCity.png", 
-            "title": "Leicester-City"
+            "title": "Leicester City"
         },
         {
             "cover": "/teams/Liverpool.png", 
@@ -50,19 +50,19 @@
         },
         {
             "cover": "/teams/ManchesterCity.png", 
-            "title": "Manchester-City"
+            "title": "Manchester City"
         },
         {
             "cover": "/teams/ManchesterUnited.png", 
-            "title": "Manchester-United"
+            "title": "Manchester United"
         },
         {
             "cover": "/teams/Newcastle.png", 
-            "title": "Newcastle"
+            "title": "Newcastle United"
         },
         {
             "cover": "/teams/NottinghamForest.png", 
-            "title": "Nottingham-Forest"
+            "title": "Nottingham Forest"
         },
         {
             "cover": "/teams/Southampton.png", 
@@ -70,15 +70,15 @@
         },
         {
             "cover": "/teams/Tottenham.png", 
-            "title": "Tottenham"
+            "title": "Tottenham Hotspur"
         },
         {
             "cover": "/teams/WestHam.png", 
-            "title": "West-Ham"
+            "title": "West Ham United"
         },
         {
             "cover": "/teams/Wolves.png", 
-            "title": "Wolves"
+            "title": "Wolverhampton Wanderers"
         }
     ]
 }
