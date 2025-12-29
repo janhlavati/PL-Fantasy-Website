@@ -76,7 +76,7 @@ const TeamData = () => {
     <div className={`fade-in ${loading ? 'loading' : ''}`}>
     <div className="table-container">
       <h1 className = "page-title">
-          <img src="https://icon-library.com/images/white-back-icon/white-back-icon-15.jpg" alt="Back" style={{ width: '80px', height: '70px', marginRight: '30px', cursor: 'pointer' }} onClick={() => window.history.back()} />
+          <img src="https://icon-library.com/images/white-back-icon/white-back-icon-15.jpg" alt="Back-page" style={{ width: '80px', height: '70px', marginRight: '30px', cursor: 'pointer' }} onClick={() => window.history.back()} />
         <AnimatedLetters letterClass = {letterClass} strArray={"Player Data".split("")} idx={12}/>
       </h1>
       <table>
